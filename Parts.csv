@@ -1,10 +1,10 @@
 partNumber,name,price
-100400,"Wood table 40""",450.99
-100401,"Glass top 40""",250.99
+100400,'Wood table 40"',450.99
+100401,'Glass top 40"',250.99
 100001,Leg assembly,40.44
-100601,"Glass top 60""",450.99
+100601,'Glass top 60"',450.99
 100002,Table brace,43.25
-100600,"Wood top 60""",800
+100600,'Wood top 60"',800
 101001,Leg Plate,4.5
 101002,Leg foot,3.25
 100100,Leg,30.99
